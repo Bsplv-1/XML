@@ -1,0 +1,1 @@
+{"ID":"BR-1", "Summary":"'Wildberries' in the main header on the main page is misspelled", "Environment":"Windows 11 64x/Chrome 108.0.5359.125", "Steps to reproduce":"1.Open the main page Wildberries, 2.Check the main header", "Expected":"Wildberries", "Actual result":"Wilberries", "Severity":"Low", "Priority":"High"}
