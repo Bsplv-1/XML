@@ -1,1 +1,10 @@
-{"ID":"BR-1", "Summary":"'Wildberries' in the main header on the main page is misspelled", "Environment":"Windows 11 64x/Chrome 108.0.5359.125", "Steps to reproduce":"1.Open the main page Wildberries, 2.Check the main header", "Expected":"Wildberries", "Actual result":"Wilberries", "Severity":"Low", "Priority":"High"}
+<xml>
+  <ID>BR-1</ID>
+  <Summary>'Wildberries' in the main header on the main page is misspelled</Summary>
+  <Environment>Windows 11 64x. Chrome 108.0.5359.125</Environment>, 
+  <Steps_to_reproduce>1.Open the main page Wildberries, 2.Check the main header</Steps_to_reproduce> 
+  <Expected_result>Wildberries</Expected_result> 
+  <Actual_result>Wilberries</Actual_result> 
+  <Severity>Low</Severity> 
+  <Priority>High</Priority>
+</xml>
